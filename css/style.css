@@ -57,9 +57,30 @@ body{
 
 
 /* start section-1 */
+.section-1-bg{
+    background-color: #C0C0C0;
+}
 .section-1{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
+    padding: 25px 0px;
 }
+.section-1-img{
+    width: 45%;
+}
+.section-1-img img{
+    width: 100%;
+}
+.section-1-content{
+    width: 45%;
+}
+.section-1-content p{
+    margin-top: 15px;
+}
+.section-1-content .fa-solid{
+    margin: 0px 10px;
+    color: green;
+}
+/* End .section-1 css */
