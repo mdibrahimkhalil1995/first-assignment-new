@@ -84,3 +84,24 @@ body{
     color: green;
 }
 /* End .section-1 css */
+.plan-head{
+    padding: 25px 0;
+    text-align: center;
+}
+.plans-items{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 0px;
+    text-align: center;
+}
+
+.plans-items h3{
+    color: #151414;
+    margin-top: 10px;
+}
+.plans-items p{
+    color: #737272;
+    margin-top: 10px;
+}
