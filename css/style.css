@@ -143,6 +143,8 @@ body{
     color: #151414;
 }
 /* End inner banner css */
+
+/* start footer section */
 .footer-bg{
     background-color: #151414;
 
@@ -155,7 +157,7 @@ body{
     padding: 100px 0px;
 }
 .contact-info{
-    width: 500px;
+    width: 400px;
 }
 .contact-info h1{
     color: #fff;
@@ -181,3 +183,32 @@ body{
     color: #F8F8F8;
     line-height: 40px;
 }
+
+.subscribe-section h3{
+    color: #F8F8F8;
+    margin-bottom: 25px;
+}
+.email input{
+    width: 300px;
+    padding: 15px;
+    background: none;
+    border: none;
+    border: 1px solid #F8F8F8;
+    border-radius: 5px;
+    color: #F8F8F8;
+}
+::placeholder{
+    color: #d1e9fa;
+}
+.subs-btn input{
+    margin-top: 15px;
+    width: 120px;
+    padding: 15px;
+    font-weight: 700;
+    background: #005FAC;
+    border: none;
+    color: #fff;
+    border-radius: 5px;
+
+}
+/* End footer Section */
