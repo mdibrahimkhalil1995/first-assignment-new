@@ -26,12 +26,14 @@ body{
 }
 .banner-wrap{
     display: flex;
+    flex-wrap: wrap;
     justify-content: right;
+    align-items: center;
 }
 .banner-content{
     text-align: right;
     width: 300px;
-    margin-top: 220px;
+    margin-top: 250px;
 
 }
 .banner-content h1{
