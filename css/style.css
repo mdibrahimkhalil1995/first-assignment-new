@@ -143,3 +143,41 @@ body{
     color: #151414;
 }
 /* End inner banner css */
+.footer-bg{
+    background-color: #151414;
+
+}
+.footer-content{
+    display: flex;
+    flex: wrap;
+    justify-content: space-between;
+    background-color: #151414;
+    padding: 100px 0px;
+}
+.contact-info{
+    width: 500px;
+}
+.contact-info h1{
+    color: #fff;
+    margin-bottom: 15px;
+}
+.contact-info h1{
+    color: #F8F8F8;
+    margin-bottom: 15px;
+}
+.contact-info p, span{
+    color: #F8F8F8;
+    margin-bottom: 15px;
+    font-size: 12px;
+    text-align: justify;
+    line-height: 20px;
+}
+.social-icon img{
+    width: 30px;
+    margin-right: 10px;
+    margin-top: 25px;
+}
+.contact-info span{
+    color: #F8F8F8;
+    line-height: 40px;
+}
