@@ -84,6 +84,8 @@ body{
     color: green;
 }
 /* End .section-1 css */
+
+/* start my plan css */
 .plan-head{
     padding: 25px 0;
     text-align: center;
@@ -105,3 +107,37 @@ body{
     color: #737272;
     margin-top: 10px;
 }
+/* End my plan css */
+
+/* start inner banner */
+.inner-bg{
+    background-image: url(/images/watch.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+}
+.inner-banner{
+    background-image: linear-gradient(to right, #005FAC, #ffffff28);
+    background-color: ;
+    width: 100%;
+    height: auto;
+    padding: 50px;
+    margin: 50px 0px;
+    border-radius: 10px;
+}
+.inner-banner h1{
+    color: #fff;
+}
+.inner-banner a {
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 15px;
+    background-color: #d1e9fa;
+    padding: 10px 15px;
+    text-align: center;
+    border-radius: 5px;
+    font-weight: 700;
+    color: #151414;
+}
+/* End inner banner css */
